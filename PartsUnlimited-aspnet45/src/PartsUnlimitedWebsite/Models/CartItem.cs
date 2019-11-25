@@ -7,6 +7,7 @@ namespace PartsUnlimited.Models
     {
 
         // My first Git commit comment
+        // My second change to the file
         [Key]
         public int CartItemId { get; set; }
 
